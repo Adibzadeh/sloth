@@ -1,5 +1,5 @@
 <?php
-// Please delete or change its name and take a backup after completing the installation
+// Delete or change its name and take a backup after completing the installation
 
 // Website Name
 
